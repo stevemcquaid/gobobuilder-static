@@ -1,25 +1,25 @@
 {
-	"title": "Launch Page",
-	"heading": "Awesome Launching Soon Page",
-	"description": "Create a launching soon page for your product or service.",
+	"title": "Gobo Builder",
+	"heading": "Gobo Builder Launching Soon",
+	"description": "Create your own gobo with our easy editor!",
 	"links": {
-		"Title": "url"
+		"Contact": "mailto:steve@stevemcquaid.com"
 	},
 	"info-block-1": [
-		"<h4>Subheading</h4>",
-		"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus augue.</p>",
-		"<h4>Subheading</h4>",
-		"<p>Mauris tincidunt ante sit amet nisl eleifend quis molestie lacus.</p>"
+		"<h4>Cost</h4>",
+		"<p>The lowest prices</p>",
+		"<h4>Efficiency</h4>",
+		"<p>The easiest to use gobo editor. Period.</p>"
 	],
 	"info-block-2": [
-		"<h4>Subheading</h4>",
-		"<p>Vestibulum leo nulla, euismod quis fermentum id, eleifend at urna.</p>",
-		"<h4>Subheading</h4>",
-		"<p>Nullam vitae dui in quam accumsan vestibulum vel dapibus sem.</p>"
+		"<h4>View before you buy</h4>",
+		"<p>What you see onscreen is what you recieve</p>",
+		"<h4>It just works</h4>",
+		"<p>Our proprietary algorithms optimize your image for all major projectors.</p>"
 	],
-	"copyright": "&copy; You 2012",
+	"copyright": "&copy; GoboBuilder.com 2015",
 	"footer-links": {
-		"Twitter": "http://twitter.com/mloberg"
+		"Twitter": "http://twitter.com/gobobuilder"
 	},
 	"signup-button-text": "Sign Up",
 	"signup-text": "Sign Up For Our Newsletter",
